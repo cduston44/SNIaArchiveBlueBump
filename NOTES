@@ -1,0 +1,7 @@
+This set of NOTES is super locally relevant to just me (C Duston)!!
+
+1. Run jupyter notebook and open Astronomy.pyinb.
+2. Try to run...when modules not found (aiohttp, plotly for example),
+pip install MODULENAME.
+3. ???
+4. Profit!
